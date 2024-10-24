@@ -24,13 +24,13 @@ const Slider = () => {
         ref={(el) => (swipeEl.current = el)} // Set the ref
       >
         <div>
-          <img src={imgone} alt="Image 1" className="slider-image" />
+          <img src={imgone} alt="" className="slider-image" />
         </div>
         <div>
-          <img src={imgtwo} alt="Image 2" className="slider-image" />
+          <img src={imgtwo} alt="" className="slider-image" />
         </div>
         <div>
-          <img src={imgthree} alt="Image 3" className="slider-image" />
+          <img src={imgthree} alt="" className="slider-image" />
         </div>
       </Swipe>
 
