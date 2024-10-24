@@ -2,7 +2,7 @@ import React from 'react';
 
 const RajLayout = () => {
   return (
-    <div className='absolute inset-x-0 -bottom-12 mx-auto bg-white w-[90%] flex items-center py-6 px-4 shadow-sm gap-4 lg:gap-6 justify-between lg:flex-row flex-col'>
+    <div className='absolute inset-x-0 md:-bottom-12 -bottom-16 mx-auto bg-white w-[90%] flex items-center py-6 px-4 shadow-sm gap-4 lg:gap-6 justify-between lg:flex-row flex-col'>
       <h1 className="text-yellow font-playwrite text-[16px] sm:text-[18px] md:text-[20px] lg:text-[22px] font-semibold mt-2 sm:mt-4 text-center">
         Raj Vilas <br /> PALACES
       </h1>

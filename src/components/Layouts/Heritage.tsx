@@ -20,7 +20,7 @@ const Heritage = () => {
       </p>
 
       {/* Grid Section for Images */}
-      <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mt-8'>
+      <div className='grid grid-cols-1  lg:grid-cols-4 gap-6 mt-8'>
         <div>
           <img src={imgone} alt="Heritage Place 1" className='w-full h-auto object-cover rounded-md' />
           <h3 className='text-[20px] sm:text-[24px] lg:text-[26px] font-titillium text-yellow font-bold mt-2'>

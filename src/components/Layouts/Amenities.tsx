@@ -26,7 +26,7 @@ const Amenities = () => {
       {/* Grid Section */}
       <div className="grid lg:grid-cols-2 grid-cols-1 w-[90%] mx-auto mt-16 lg:h-auto h-auto md:gap-6 gap-4">
         {/* Grid 1 */}
-        <div className="grid md:grid-cols-2 grid-cols-1 lg:gap-6 gap-4">
+        <div className="grid lg:grid-cols-2 grid-cols-1 lg:gap-6 gap-4">
           <img
             src={imagefour}
             alt="In-room dining"
@@ -49,7 +49,7 @@ const Amenities = () => {
         </div>
 
         {/* Grid 2 */}
-        <div className="grid md:grid-cols-2 lg:gap-6 gap-4">
+        <div className="grid lg:grid-cols-2 lg:gap-6 gap-4">
           <img
             src={imagetwo}
             alt="Sutra Cafe"

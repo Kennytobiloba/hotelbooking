@@ -6,7 +6,7 @@ import roomfour from "../../assests/lobby-398845_1280.jpg";
 
 const RoomGrid = () => {
   return (
-    <div className='grid grid-cols-1 md:grid-cols-3 w-[95%] md:w-[90%] mx-auto gap-4'>
+    <div className='grid grid-cols-1 md:grid-cols-3 w-[90%] mx-auto gap-4'>
       {/* First Column with Text Overlay */}
       <div className='grid grid-cols-1 h-full relative'>
         {/* First Image with Text */}
